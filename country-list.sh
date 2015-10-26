@@ -1,0 +1,4 @@
+
+
+CTRYLIST=('afghanistan' 'af' 'argentina' 'ar' 'armenia' 'am' 'australia' 'au' 'belarus' 'by' 'bolivia' 'bo' 'brazil' 'br' 'bulgaria' 'bg' 'canada' 'ca' 'cayman_islands' 'ky' 'chile' 'ci' 'china' 'cn' 'colombia' 'co' 'croatia' 'hr' 'cuba' 'cu' 'czech_republic' 'cz' 'egypt' 'eg' 'estonia' 'ee' 'france' 'fr' 'georgia' 'ge' 'germany' 'de' 'greece' 'gr' 'honduras' 'hn' 'hong_kong' 'hk' 'hungary' 'hu' 'india' 'in' 'indonesia' 'id' 'iran' 'ir' 'iraq' 'iq' 'ireland' 'ie' 'israel' 'il' 'italy' 'it' 'japan' 'jp' 'kazakhstan' 'kz' 'malaysia' 'my' 'mexico' 'mx' 'netherlands' 'nl' 'north_korea' 'kp' 'pakistan' 'pk' 'poland' 'pl' 'romania' 'ro' 'russia' 'ru' 'saudi_arabia' 'sa' 'slovakia' 'sk' 'slovenia' 'sl' 'spain' 'es' 'south_korea' 'kr' 'syria' 'sy' 'taiwan' 'tw' 'thailand' 'th' 'turkey' 'tr' 'ukraine' 'ua' 'united_kingdom' 'gb' );
+
